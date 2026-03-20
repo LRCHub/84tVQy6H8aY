@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "可笑しな生き物",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-20T06:07:00.206111Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "可笑しな生き物",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_可笑しな生き物_DUSTCELL.txt"
+    }
+  ]
+}
